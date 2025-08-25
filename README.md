@@ -1,6 +1,3 @@
-# Semantic Deduplicator - 의미적 중복 제거 시스템
-
-## 사용 방법
 
 ### 1. 필요 패키지 설치
 ```bash
